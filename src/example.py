@@ -110,3 +110,4 @@ input_x=tf.placeholder(tf.float32, name='input_x')
 w = tf.Variable(1.0,name='w')
 
 
+
