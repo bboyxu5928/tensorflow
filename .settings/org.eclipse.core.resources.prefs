@@ -1,3 +1,5 @@
 eclipse.preferences.version=1
 encoding//src/example.py=utf-8
 encoding//src/graph.py=utf-8
+encoding//src/model_save.py=utf-8
+encoding//src/tensorboard.py=utf-8
