@@ -18,6 +18,6 @@ with tf.device('/job:work/task:1'):
     y = x * 0.1 + 0.3
 
 # 4. 运行
-with tf.Session(target='grpc://127.0.0.1:33334',
+with tf.Session(target='grpc://127.0.0.1:33333',
                 config=tf.ConfigProto(log_device_placement=True, allow_soft_placement=True)) as sess:
     print(sess.run(y))

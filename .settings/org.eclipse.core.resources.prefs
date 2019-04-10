@@ -1,7 +1,8 @@
 eclipse.preferences.version=1
-encoding//src/client_1.py=utf-8
-encoding//src/example.py=utf-8
-encoding//src/graph.py=utf-8
-encoding//src/model_save.py=utf-8
-encoding//src/server_1.py=utf-8
-encoding//src/tensorboard.py=utf-8
+encoding//src/algorithm/softmax_classify.py=utf-8
+encoding//src/tensorflow_basic/client_1.py=utf-8
+encoding//src/tensorflow_basic/example.py=utf-8
+encoding//src/tensorflow_basic/graph.py=utf-8
+encoding//src/tensorflow_basic/model_save.py=utf-8
+encoding//src/tensorflow_basic/server_1.py=utf-8
+encoding//src/tensorflow_basic/tensorboard.py=utf-8

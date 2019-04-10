@@ -8,8 +8,9 @@ python server_1.py --job_name=work --task_index=0 (至少一个)
 python server_1.py --job_name=work --task_index=1
 """
 
+#引入后24-26行不报错
+from typing import Optional
 import tensorflow as tf
-
 
 # 1. 配置服务器相关信息
 # 因为tensorflow底层代码中，默认就是使用ps和work分别表示两类不同的工作节点
