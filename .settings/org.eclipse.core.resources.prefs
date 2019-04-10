@@ -1,4 +1,6 @@
 eclipse.preferences.version=1
+encoding//src/algorithm/bp_1.py=utf-8
+encoding//src/algorithm/simple_neural_network_11.py=utf-8
 encoding//src/algorithm/softmax_classify.py=utf-8
 encoding//src/tensorflow_basic/client_1.py=utf-8
 encoding//src/tensorflow_basic/example.py=utf-8
